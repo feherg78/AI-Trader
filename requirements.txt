@@ -4,3 +4,6 @@ langchain-mcp-adapters>=0.1.0
 fastmcp==2.12.5
 
 tushare
+ccxt==4.0.0
+python-dotenv==1.0.0
+requests==2.31.0
